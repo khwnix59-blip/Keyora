@@ -1,0 +1,6 @@
+{
+  "name": "KEYORA STUDIO - Luxury Personalized Keychains",
+  "description": "Premium handcrafted personalized keychains. Minimalist black and gold e-commerce store with WhatsApp ordering, customizable engravings, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
